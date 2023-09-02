@@ -2,11 +2,15 @@
 
 ### By Dieter Schmid, Wenxuan Pan, Alicia Han
 
+[Deployed App](https://student-yearbook.vercel.app/)
+
 [Trello Board](https://trello.com/b/YU3ggBxC/school-yearbook-app)
 
-[Presentation](./)
+[Presentation](./ppt/presentation.pdf)
 
-[GitHub](https://github.com/Dieter1978/T3A2-A)
+[Front End Repo](https://github.com/wenxuan-pan/Full_Stack_App_T3A2-B-Frontend)
+
+[Back End Repo](https://github.com/Dieter1978/Full_Stack_App_T3A2-B)
 
 ## Table of Contents
 
