@@ -124,39 +124,39 @@ Desktop:
 
 ## Libraries Used
 
-* *express:*
+* *express:* Express is a Node.js web framework simplifying web app/API development. It handles routing, middleware, HTTP requests, and responses, ideal for building RESTful APIs and web apps. Express offers templating, static file serving, and error handling. It's extensible with a robust community, providing a minimalistic yet highly flexible solution for efficient server-side applications.
 
-* *react:*
+* *react:* React is a JavaScript library for building user interfaces. It enables the creation of interactive, reusable UI components. React efficiently updates and renders components when data changes, enhancing performance. It supports a virtual DOM for optimized rendering, making it ideal for single-page applications. React can be used with other libraries and frameworks and is widely adopted for front-end development due to its component-based architecture and strong community support.
 
-* *bcrypt:*
+* *bcrypt:* bcrypt is a library for securely hashing and salting passwords in applications. It helps protect user data by converting passwords into irreversible, hashed values, making it difficult for attackers to decipher the original password. bcrypt employs a computationally intensive hashing algorithm to enhance security, mitigating brute-force and rainbow table attacks. It is widely used for password storage and authentication in web applications.
 
-* *cors:*
+* *cors:* The CORS (Cross-Origin Resource Sharing) library is used in web applications to control how resources hosted on one domain can be accessed by web pages from another domain. It provides a way to define which origins (domains) are permitted to make requests to a web server, helping to enhance security by preventing unauthorized cross-origin requests.
 
-* *dotenv:*
+* *dotenv:* The dotenv library simplifies the management of environment variables in Node.js applications. It loads environment variables from a .env file into the application's runtime environment. This allows developers to store sensitive or configuration-related data securely outside the codebase and access them easily. It's particularly useful for storing API keys, database credentials, and other configuration settings in a centralized and secure manner, ensuring that sensitive data is not exposed in source code repositories.
 
-* *jsonwebtoken:*
+* *jsonwebtoken:* The jsonwebtoken library in Node.js helps create and verify JSON Web Tokens (JWTs) for user authentication and secure data exchange. It allows developers to encode and decode JWTs, which are compact, self-contained tokens used for securely transmitting information between parties. With jsonwebtoken, you can generate tokens containing user claims, sign them with a secret key, and verify their authenticity, ensuring data integrity and user authentication in web applications and APIs.
 
-* *mongoose:*
+* *mongoose:* Mongoose is a Node.js library used for interacting with MongoDB databases in a structured and intuitive way. It simplifies database operations by providing an Object Data Modeling (ODM) layer that allows developers to define schemas and models for data, create, read, update, and delete documents in MongoDB, and perform queries and validations, making it easier to work with MongoDB in Node.js applications.
 
-* *nodemon:*
+* *nodemon:* Nodemon is a utility for Node.js that monitors files in a project directory and automatically restarts the Node.js application when changes are detected. It simplifies the development process by eliminating the need to manually restart the server after code modifications, enhancing developer productivity and streamlining the debugging and testing of Node.js applications.
 
-* *vite:*
+* *vite:* Vite is a build tool and development server for modern web applications. It offers rapid development with near-instantaneous hot module replacement (HMR), making it highly efficient for building front-end projects using JavaScript and TypeScript. Vite optimizes code splitting, lazy loading, and production builds, enhancing performance and developer experience.
 
-* *vitest:*
+* *vitest:* 
 
-* *react-bootstrap:*
+* *react-bootstrap:* The "react-bootstrap" library is a popular set of React components that offers pre-designed, customizable UI elements following the Bootstrap framework. It simplifies building responsive, visually appealing web interfaces in React applications by providing a range of components like buttons, forms, modals, and navigation bars. Developers can easily integrate these components into their projects, saving time on front-end development and ensuring consistent, mobile-friendly designs.
 
-* *toastify:*
+* *react-toastify:* The "react-toastify" library is used for displaying toast notifications in React applications. It simplifies the process of showing unobtrusive and customizable notifications to users, such as success messages, errors, or warnings. React-toastify offers a straightforward API to create and manage toast notifications, including features like auto-dismissal, positioning, and animation. It enhances the user experience by providing a consistent and user-friendly way to communicate important information without interrupting the flow of the application.
 
-* *jsdom:*
+* *jsdom:* jsdom is a JavaScript library that allows you to create a simulated browser environment within a Node.js environment. It emulates a web browser's DOM (Document Object Model), enabling you to perform operations like rendering and manipulating web pages, running unit tests for web applications, and interacting with web page elements programmatically. jsdom is particularly useful for server-side rendering, testing, and automating tasks involving web pages in a Node.js context.
 
-* *react-testing-library:*
+* *react-testing-library:* The react-testing-library is a utility library for testing React components. It focuses on testing user interactions with components in a way that simulates how users would interact with a real application. It encourages writing tests that are closer to end-user behavior by querying and interacting with rendered components, making it easier to write maintainable and robust tests. This library promotes best practices for testing React applications by emphasizing the testing of user experiences rather than implementation details.
 
-* *react-router-dom:*
+* *react-router-dom:* The react-router-dom library is used for handling client-side routing in React applications. It enables developers to create dynamic, single-page applications with multiple views or pages. It provides a way to define and manage routes, allowing users to navigate between different components or views within a web application without the need to reload the entire page. This library simplifies the creation of navigation menus, deep linking, and routing configuration, enhancing the user experience in React-based web applications.
 
-* *jest:*
+* *jest:* Jest is a JavaScript testing framework commonly used with Node.js and React applications. It simplifies unit and integration testing by providing a comprehensive toolset for writing, running, and asserting test cases. Jest offers features like automatic mocking, parallel test execution, and snapshot testing. It's known for its ease of use and speed, making it a popular choice for JavaScript developers to ensure the reliability and correctness of their code through test-driven development (TDD) and continuous integration.
 
-* *supertest:*
+* *supertest:* The Supertest library is a popular JavaScript library used for testing HTTP APIs. It provides a high-level, easy-to-use API for making HTTP requests to your API endpoints and then making assertions about the responses. Supertest can be integrated with testing frameworks like Mocha or Jest and is particularly useful for testing the functionality, behavior, and performance of RESTful APIs in Node.js applications. It allows developers to simulate HTTP requests and verify that the API responses match expected criteria.
 
 ## Using the App
 
