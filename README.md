@@ -52,11 +52,11 @@ The application will utilise a MongoDB connected to a express.js server built on
 
 ## Dataflow Diagram
 
-![Dataflow Diagram](./Docs/Dataflow%20Diagram.png)
+![Dataflow Diagram](./docs/Dataflow%20Diagram.png)
 
 ## Application Architecture Diagram
 
-![Application Architecture Diagram](./Docs/Application%20Architecture%20Diagram.png)
+![Application Architecture Diagram](./docs/Application%20Architecture%20Diagram.png)
 
 ## User Stories
 
