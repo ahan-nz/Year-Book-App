@@ -16,14 +16,15 @@
 
 ## Table of Contents
 
-1. [R1 Description of website](#r1-description-of-your-website)
-2. [R2 Dataflow Diagram](#r2-dataflow-diagram)
-3. [R3 Application Architecture Diagram](#r3-application-architecture-diagram)
-4. [R4 User Stories](#r4-user-stories)
-5. [R5 Wireframes](#r5-wireframes)
-6. [R6 Trello Screenshots](#r6-trello-screenshots)
+1. [Description of website](#description-of-your-website)
+2. [Dataflow Diagram](#dataflow-diagram)
+3. [Application Architecture Diagram](#application-architecture-diagram)
+4. [User Stories](#user-stories)
+5. [Wireframes](#wireframes)
+6. [Using the App](#using-the-app)
+7. [Trello Screenshots](#trello-screenshots)
 
-## R1 Description of your website
+## Description of your website
 
 A digital School Yearbook that makes a record of all student in attendance at the particular year levels of the school.
 
@@ -49,15 +50,15 @@ This application is targetted at all school stakeholders this includes students 
 
 The application will utilise a MongoDB connected to a express.js server built on node.js. The front end of the application will use react.js html and css. The server and front end will be deployed to cloud services.
 
-## R2 Dataflow Diagram
+## Dataflow Diagram
 
 ![Dataflow Diagram](./Docs/Dataflow%20Diagram.png)
 
-## R3 Application Architecture Diagram
+## Application Architecture Diagram
 
 ![Application Architecture Diagram](./Docs/Application%20Architecture%20Diagram.png)
 
-## R4 User Stories
+## User Stories
 
 User stories were split into three categories:
 
@@ -104,20 +105,36 @@ Students only:
 1. As a student, I would like to have a unique code from my school admin, to be able to register as an account that is linked to a yearbook in the database.
 2. As a student, I would like to be able to add, modify and delete any of my data from my account, and ensure that only the admin or myself can manipulate my account, for better security.
 
-## R5 Wireframes
+## Wireframes
+
+[View in Figma](https://www.figma.com/file/wEaYAPuL9deFJ3dAndN1Fq/Yearbook-wireframes?type=design&node-id=130-2&mode=design&t=GhTV1T7VudPXjCez-0)
 
 Mobile:
 
-![Wireframe - Mobile](./Docs/Yearbook%20wireframes%20-%20mobile.png)
+![Wireframe - Mobile](./docs/Yearbook%20wireframes%20-%20mobile.png)
 
 Tablet:
 
-![Wireframe - Tablet](./Docs/Yearbook%20wireframes%20-%20tablet.png)
+![Wireframe - Tablet](./docs/Yearbook%20wireframes%20-%20tablet.png)
 
 Desktop:
 
-![Wireframe - Desktop](./Docs/Yearbook%20wireframes%20-%20desktop.png)
+![Wireframe - Desktop](./docs/Yearbook%20wireframes%20-%20desktop.png)
 
-## R6 Trello Screenshots
+## Using the App
 
-![Trello board screenshot](./Docs/Trello%2019%20Aug.png)
+The app has been set up with one admin user on the backend, this user will add year levels, schools and students. The login details are:
+
+*Admin email*: john.smith@gmail.com
+
+*Admin password*: testing
+
+A student user has also been set up, the login details are:
+
+*Student user email*: bill.smith@gmail.com
+
+*Student user password*: anothertesting
+
+## Trello Screenshots
+
+![Trello board screenshot](./docs/Trello%2019%20Aug.png)
