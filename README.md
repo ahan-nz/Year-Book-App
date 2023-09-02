@@ -179,11 +179,15 @@ A student user has also been set up, the login details are:
 
 #### Frontend
 
-Navigate to the frontend's folder. Use `npm install` to build the app. Use `npm run test-cc` to generate vitest coverage.
+Navigate to the frontend's folder. Use `npm install` to build the app. Use `npm run test-cc` to generate vitest coverage. Use `npm run dev` to run the development server.
 
 Connecting to Backend: 
 
 The Frontend app fetches data from the deployed API by default. To change that to a local server, go to `src/utils/apiHelper.js`, and change the baseURL on line 3 (the default port for backend is 5175).
+
+#### Backend
+
+Navigate to the backend's folder. Use `npm install` to build the app and use `npm start` to run the development server.
 
 ## User Testing
 
