@@ -124,7 +124,39 @@ Desktop:
 
 ## Libraries Used
 
+* *express:*
 
+* *react:*
+
+* *bcrypt:*
+
+* *cors:*
+
+* *dotenv:*
+
+* *jsonwebtoken:*
+
+* *mongoose:*
+
+* *nodemon:*
+
+* *vite:*
+
+* *vitest:*
+
+* *react-bootstrap:*
+
+* *toastify:*
+
+* *jsdom:*
+
+* *react-testing-library:*
+
+* *react-router-dom:*
+
+* *jest:*
+
+* *supertest:*
 
 ## Using the App
 
