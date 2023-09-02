@@ -142,7 +142,7 @@ Desktop:
 
 * *vite:* Vite is a build tool and development server for modern web applications. It offers rapid development with near-instantaneous hot module replacement (HMR), making it highly efficient for building front-end projects using JavaScript and TypeScript. Vite optimizes code splitting, lazy loading, and production builds, enhancing performance and developer experience.
 
-* *vitest:* 
+* *vitest:* Vitest is a unit testing framework built on top of Vite with a focus on modern features and support for various JavaScript frameworks like Vue, React, Svelte, and Lit. Some of its notable features include component testing, TypeScript and JSX support, ESM (ECMAScript Modules) compatibility, and multithreading with workers. This makes it a versatile and powerful tool for unit testing in modern web development projects. Developers can leverage these features to ensure the quality and reliability of their code.
 
 * *react-bootstrap:* The "react-bootstrap" library is a popular set of React components that offers pre-designed, customizable UI elements following the Bootstrap framework. It simplifies building responsive, visually appealing web interfaces in React applications by providing a range of components like buttons, forms, modals, and navigation bars. Developers can easily integrate these components into their projects, saving time on front-end development and ensuring consistent, mobile-friendly designs.
 
