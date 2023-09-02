@@ -129,6 +129,8 @@ The app has been set up with one admin user on the backend, this user will add y
 
 *Admin password*: testing
 
+Please note that the backend test token inside src/backend/routes/test_token.js would need to be updated with the new admin token if the database is reseeded.
+
 A student user has also been set up, the login details are:
 
 *Student user email*: bill.smith@gmail.com
