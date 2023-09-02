@@ -174,7 +174,6 @@ A student user has also been set up, the login details are:
 
 *Student user password*: anothertesting
 
-
 ### Installing the app locally
 
 #### Frontend
@@ -184,6 +183,12 @@ Navigate to the frontend's folder. Use `npm install` to build the app. Use `npm 
 Connecting to Backend: 
 
 The Frontend app fetches data from the deployed API by default. To change that to a local server, go to `src/utils/apiHelper.js`, and change the baseURL on line 3 (the default port for backend is 5175).
+
+## User Testing
+
+[User Testing PDF](./docs/usertesting.pdf)
+
+[View As Google Sheets](https://docs.google.com/spreadsheets/d/1pefhrMjoiLZwKzy9ScchNq-p_7jmZtDbuWSV5q5xw5o/edit#gid=0)
 
 ## Trello Screenshots
 
