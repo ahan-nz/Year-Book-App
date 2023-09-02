@@ -21,8 +21,9 @@
 3. [Application Architecture Diagram](#application-architecture-diagram)
 4. [User Stories](#user-stories)
 5. [Wireframes](#wireframes)
-6. [Using the App](#using-the-app)
-7. [Trello Screenshots](#trello-screenshots)
+6. [Libraries Used](#libraries-used)
+7. [Using the App](#using-the-app)
+8. [Trello Screenshots](#trello-screenshots)
 
 ## Description of your website
 
@@ -120,6 +121,10 @@ Tablet:
 Desktop:
 
 ![Wireframe - Desktop](./docs/Yearbook%20wireframes%20-%20desktop.png)
+
+## Libraries Used
+
+
 
 ## Using the App
 
