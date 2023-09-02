@@ -23,7 +23,8 @@
 5. [Wireframes](#wireframes)
 6. [Libraries Used](#libraries-used)
 7. [Using the App](#using-the-app)
-8. [Trello Screenshots](#trello-screenshots)
+8. [User Testing](#user-testing)
+9. [Trello Screenshots](#trello-screenshots)
 
 ## Description of your website
 
