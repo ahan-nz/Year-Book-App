@@ -137,6 +137,23 @@ A student user has also been set up, the login details are:
 
 *Student user password*: anothertesting
 
+
+### Installing the app locally
+
+#### Frontend
+
+Navigate to the frontend's folder. Use `npm install` to build the app. Use `npm run test-cc` to generate vitest coverage.
+
+Connecting to Backend: 
+
+The Frontend app fetches data from the deployed API by default. To change that to a local server, go to `src/utils/apiHelper.js`, and change the baseURL on line 3 (the default port for backend is 5175).
+
 ## Trello Screenshots
 
-![Trello board screenshot](./docs/Trello%2019%20Aug.png)
+![Trello board screenshot - Part A](./docs/Trello%2019%20Aug.png)
+
+![Trello - 21 Aug](./docs/Trello%2021%20Aug.png)
+![Trello - 30 Aug](./docs/trello30:08:2023.png)
+![Trello - 2 Sep](/docs/trello02:09:2023.png)
+![Trello - 3 Sep](/docs/trello03:09:2023.png)
+![Trello - subtasks](/docs/Trello%20cards.png)
